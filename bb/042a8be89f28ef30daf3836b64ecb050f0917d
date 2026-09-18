@@ -1,0 +1,33 @@
+orchagent/orchdaemon.cpp
+  s_ba81491c8df888::t_2b9d83d9f3b8ea 167-171,178-203,242-247
+orchagent/orchdaemon.h
+  s_ba81491c8df888::t_8cfc3e0d55e93f 73
+orchagent/p4orch/tests/fake_portorch.cpp
+  s_ba81491c8df888::t_aa6df4b18121bb 22,37-38
+orchagent/port.h
+  s_ba81491c8df888::t_13699168ce0f56 144-159,289-294
+orchagent/portsorch.cpp
+  s_ba81491c8df888::t_13e776b167878a 4,94-97,708-709,739-742,1094-1100,6128-6131,6135-6178,6184-6197,6208-6211,6231-6239,6241-6253,6255,6257,6259,6293-6303,6308-6312,6328-6391,6400,6431-6447,6449-6458,6466,6473,6488-6489,6496-6504,6508,6534-6542,7497-7696,12013-12045
+orchagent/portsorch.h
+  s_ba81491c8df888::t_a33f299506335f 147-148,409-411,450-469
+tests/mock_tests/orchdaemon_ut.cpp
+  s_ba81491c8df888::t_1b48ceed9153b4 60-67
+tests/mock_tests/portsorch_ut.cpp
+  s_ba81491c8df888::t_5972320d6d0879 22,534,536-537,584-589,785-789,4817-5501
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bb042a8be89f28ef30daf3836b64ecb050f0917d",
+  "prompts": {},
+  "sessions": {
+    "s_ba81491c8df888": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_07bd45787ffeq3vZX721tFgBDq",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Zaahir Syed <zaahir@cloudflare.com>"
+    }
+  }
+}
