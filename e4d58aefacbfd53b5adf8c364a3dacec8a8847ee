@@ -1,0 +1,25 @@
+orchagent/port.h
+  s_ee9239a3f68ca2::t_7b98f5242a42ca 157
+orchagent/portsorch.cpp
+  s_ee9239a3f68ca2::t_12ae8e41de22cd 6225,6227-6231,6250-6267,6341-6356,6363-6365,6369,6401-6404,6406-6411,6413,6415-6421,7548,7554,12059-12063
+orchagent/portsorch.h
+  s_ee9239a3f68ca2::t_a462a9d31c9757 451
+tests/mock_tests/portsorch_ut.cpp
+  s_ee9239a3f68ca2::t_a55fc53e426524 22,4818,4833,4895,4909-4910,4914-4915,4957,4961,5125-5302,5357-5358,5508,5553-5554,5563-5565,5586,5588-5589,5606-5748,5751
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e4d58aefacbfd53b5adf8c364a3dacec8a8847ee",
+  "prompts": {},
+  "sessions": {
+    "s_ee9239a3f68ca2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_095aa5226ffev64z2NQCkm8Wa4",
+        "model": "@cf/moonshotai/kimi-k2.6"
+      },
+      "human_author": "Zaahir Syed <zaahir@cloudflare.com>"
+    }
+  }
+}
